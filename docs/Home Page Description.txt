@@ -1,0 +1,25 @@
+Page Description
+
+Ok, yes... I built a web site. Before anyone says anything "smart" let me explain. Since I've been retired for some time now (long, painful story so DON'T ASK!!) I've looked for "distractions." Since smoking, drinking, and gambling were non-starters, I decided I wanted to learn "stuff".
+
+My first distraction was a program called Blender which is a free, open source 3D CGI creation suite. It supports the entirety of the 3D and video creation methods.
+
+
+
+Next came crafting. But, not just any crafting, I had to geek it up. Someone had mentioned Dungeons and Dragons and I thought "Hey, wouldn't it be cool to make the playing arena?" I found a few YouTube videos and I was off! I built paths, walls, traps, bridges, buildings, etc. I even tried my hand a painting the small (very small) figures that are used. My take-awat was that I should not be allowed to paint small figures... ever!
+
+
+After moving I had no need/desire to keep crafting. So, and I have no idea why, I started studying electronics. I read books, looked online, and watched videos. In a short time I was able to build a few circuits. Most of them dealt with making an LED flash. Well, I wanted MORE! So I started looking into programmable circuits. Now, I could blink multiple LEDs at different rates and times. OK, now we're getting somewhere.
+
+
+
+Then one day, while writing a small LED blinking program, I thought "Hey, I should probalby learn more about programming so I can do really neat stuff." So, you guessed it, my new distraction was learing computer programming languages. I've got two under my belt now. At some point, I noticed that a lot of my research and tutorials were web based... Hmmmmm.
+
+
+
+Years ago I learned how to write basic HTML to build webpages. Since then there is a whole new HTML with advanced features. So, my fifth diversion was to learn HTML, along with web design and layouts. Lucky me, there is a programming side to web design using something called JavaScript for which I have already downloaded the course.
+
+
+
+So, returning to the beginning of this story, I built a web site to hold different pages that I can practice  designing, and styling. At least, that is, until the next shiny thing grabs my attention.
+
