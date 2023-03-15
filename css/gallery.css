@@ -7,6 +7,9 @@
   margin-bottom: 3.2rem;
 }
 
+.gallery-title p {
+  text-align: center;
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
