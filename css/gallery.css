@@ -17,6 +17,9 @@
   gap: 1.6rem;
   padding: 1.6rem;
   align-items: center;
+}
+
+.gallery-description {
   text-align: center;
 }
 
