@@ -71,7 +71,10 @@
 /* ###################################### */
 
 .gallery-title {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
   padding: 3.2rem;
 }
 
