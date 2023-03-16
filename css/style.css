@@ -1,0 +1,202 @@
+/* CSS STYLES SECTION */
+
+/* ###################################### */
+/* ######### STYLE CSS ################## */
+/* ###################################### */
+
+
+/* ###################################### */
+/* ############# HEADER ################# */
+/* ###################################### */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: linear-gradient(#d3f9d8, #d3f9d8);
+  height: auto;
+  padding: 3.2rem;
+  position: relative;
+}
+
+.header-gallery {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fdfffc;
+  height: auto;
+  padding: 3.2rem;
+  position: relative;
+}
+
+.logo {
+  height: 9.6rem;
+}
+
+.header-list {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 1.0rem;
+}
+
+
+/* MAIN TITLE */
+/* "Pics 'n' Stuff" */
+.title {
+  text-align: center;
+  font-family: "Genos", sans-serif;
+  background-image: linear-gradient(#d3f9d8, #ebfbee);
+}
+
+/* ###################################### */
+/* ############## HERO ################## */
+/* ###################################### */
+
+.hero {
+  display: flex;
+  width: 100%;
+  gap: 6.4rem;
+  justify-content: center;
+  padding: 0 2rem 0 2rem;
+}
+
+.gradient {
+  background-image: linear-gradient(#ebfbee 10%, #ffc9c9 40%, #f3d9fa 80%, #f8f0fc 90%)
+}
+
+/* .hero-col {
+  flex: 30rem;
+} */
+
+.crest-img {
+  width: 40rem;
+}
+
+.shadow {
+  box-shadow: 5px 7px 8px rgb(0, 0, 0, 0.5);
+}
+
+/* ###################################### */
+/* ####### FAMILY SYMBOLS ############### */
+/* ###################################### */
+
+.family {
+  display: flex;
+  gap: 2rem;
+  max-width: 100rem;
+}
+
+.family-text {
+  flex: 60%;
+}
+
+.arms-img {
+  display: flex;
+  flex: 40%;
+  justify-content: center;
+}
+
+.crest-img {
+  width: 30rem;
+  border: 1px solid black;
+  border-radius: 1.5rem;
+  background-color: rgba(236, 255, 244, 0.736);
+  overflow: hidden;
+}
+
+.figure {
+  display: table;
+  text-align: center;
+}
+
+.poem {
+  margin-left: 4rem;
+}
+
+.cite {
+  font-size: 1.0rem;
+}
+
+.cite-link:link,
+.cite-link:visited {
+  color: #333;
+  text-decoration: none;
+}
+
+.cite-link:hover,
+.cite-link:active {
+  color: blue;
+}
+
+.description-em {
+  font-size: 1.6rem;
+  color: #777;
+}
+
+
+.tartan {
+  display: flex;
+  gap: 2rem;
+  max-width: 80rem;
+}
+
+.tartan-text {
+  flex: 70%;
+}
+
+.tartan-img {
+  width: 30rem;
+  flex: 30%;
+}
+
+/* ###################################### */
+/* ########## GALLERY ################### */
+/* ###################################### */
+
+.gallery-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  padding: 3.2rem;
+}
+
+.gallery-title h2 {
+  margin-bottom: 3.2rem;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.6rem;
+  padding: 1.6rem;
+  align-items: center;
+  text-align: center;
+
+}
+
+.gallery-description {
+  text-align: center;
+}
+
+.gallery a {
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #555;
+  text-decoration: none;
+}
+
+.gallery-item {
+  /* padding: 0 0 1.6rem 0; */
+  margin-bottom: 1.6rem;
+}
+
+.gallery-img {
+  max-width: 100%;
+  margin-bottom: 0.8rem;
+  transition: all 0.4s;
+}
+
+.gallery-img:hover {
+  transform: scale(1.5);
+}
